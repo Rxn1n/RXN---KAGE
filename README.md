@@ -113,7 +113,7 @@ Carga tus propias canciones: suenan **sin internet** y **bajan de volumen solas*
 
 ## 📲 Instalación
 
-1. Abre **[la app](https://TU-USUARIO.github.io/rxn-kage/)** en el celular, con internet la primera vez.
+1. Abre **[la app](https://rxn1n.github.io/RXN---KAGE/)** en el celular, con internet la primera vez.
 2. Añádela a tu pantalla de inicio:
    - **iPhone:** en **Safari**, botón **Compartir** → **Agregar a inicio**.
    - **Android:** en **Chrome**, menú **⋮** → **Instalar app**.
