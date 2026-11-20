@@ -14,7 +14,7 @@ y registra tu progreso hasta convertir la constancia en fuerza.
 ![Sin dependencias](https://img.shields.io/badge/dependencias-0-1F2A44?style=for-the-badge)
 ![Versión](https://img.shields.io/badge/versión-1.2.0-7C5CF0?style=for-the-badge)
 
-**[▶ Abrir la app](https://TU-USUARIO.github.io/rxn-kage/)**
+**[▶ Abrir la app](https://rxn1n.github.io/RXN---KAGE/)**
 
 </div>
 
