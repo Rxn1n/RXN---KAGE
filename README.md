@@ -23,10 +23,10 @@ y registra tu progreso hasta convertir la constancia en fuerza.
 <div align="center">
 <table>
   <tr>
-    <td align="center"><img src="capturas/hoy.png" width="190"><br><sub><b>Misión del día</b></sub></td>
-    <td align="center"><img src="capturas/fuerza.png" width="190"><br><sub><b>Fuerza con figura animada</b></sub></td>
-    <td align="center"><img src="capturas/saco.png" width="190"><br><sub><b>Asalto de saco guiado</b></sub></td>
-    <td align="center"><img src="capturas/progreso.png" width="190"><br><sub><b>Constancia y calorías</b></sub></td>
+    <td align="center"><img src="captura-hoy.png" width="190"><br><sub><b>Misión del día</b></sub></td>
+    <td align="center"><img src="captura-fuerza.png" width="190"><br><sub><b>Fuerza con figura animada</b></sub></td>
+    <td align="center"><img src="captura-saco.png" width="190"><br><sub><b>Asalto de saco guiado</b></sub></td>
+    <td align="center"><img src="captura-progreso.png" width="190"><br><sub><b>Constancia y calorías</b></sub></td>
   </tr>
 </table>
 </div>
